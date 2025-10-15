@@ -1,1 +1,12 @@
-"scripts": {}
+{
+  "name": "text-replacer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "replugged build",
+    "dev": "replugged dev"
+  },
+  "devDependencies": {
+    "replugged-cli": "^1.0.0"
+  }
+}
