@@ -1,6 +1,6 @@
 {
-  "name": "BaBa Cord Text Replacer",
-  "description": "Replaces text in incoming messages from other users.",
+  "name": "BaBa Cord Message Editor",
+  "description": "Allows you to locally edit the content of any message via the long-press menu.",
   "authors": [
     {
       "name": "chinibaba",
