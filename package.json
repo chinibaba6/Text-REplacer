@@ -1,0 +1,12 @@
+{
+  "name": "local-message-editor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vendetta-bundler",
+    "dev": "vendetta-bundler -d"
+  },
+  "devDependencies": {
+    "vendetta-bundler": "latest"
+  }
+}
