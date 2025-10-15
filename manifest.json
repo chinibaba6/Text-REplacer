@@ -1,0 +1,14 @@
+{
+  "name": "BaBa Cord Text Replacer",
+  "description": "Replaces text in incoming messages from other users.",
+  "authors": [
+    {
+      "name": "chinibaba",
+      "id": "1401491180474339338"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_edit_24px"
+  }
+}
